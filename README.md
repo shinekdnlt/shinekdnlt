@@ -8,4 +8,4 @@
     <img src="https://img.shields.io/badge/HOME%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lifecream/2022-Ctrl-C-Activities))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shinekdnlt&repo=2022-Ctrl-C-Activities)](https://github.com/Lifecream/2022-Ctrl-C-Activities)
