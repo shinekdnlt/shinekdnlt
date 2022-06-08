@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Da%20Wit&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20World!&descAlignY=51&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Da%20Wit&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20World!&descAlignY=51&descAlign=75)
 <p align='center'> 도안고 2학년 </p>
 <p align='center'>
   <a href="https://github.com/shinekdnlt?tab=repositories">
