@@ -1,4 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shin%20Da%20Wit&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20World!&descAlignY=51&descAlign=71)
+
+# Welcome to My GitHub
+-----
+> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinekdnlt&show_icons=true&theme={theme})](https://github.com/shinekdnlt/github-readme-stats) 　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinekdnlt)](https://github.com/shinekdnlt/github-readme-stats)
+
+
+
+
 <p align='center'> 도안고 2학년 </p>
 <p align='center'>
   <a href="https://github.com/shinekdnlt?tab=repositories">
@@ -8,4 +16,4 @@
     <img src="https://img.shields.io/badge/HOME%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shinekdnlt&repo=2022-Ctrl-C-Activities)](https://github.com/Lifecream/2022-Ctrl-C-Activities)
+
